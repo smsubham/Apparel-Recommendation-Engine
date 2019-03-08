@@ -14,7 +14,6 @@ Build a recommendation engine which suggests similar products to the given produ
 This repository will have the solution of the assignment at the end of Applied AI Workshop. 
 Note: Some parts of the code is taken from what is available in the workshop notebooks.
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 
 
